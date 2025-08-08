@@ -1,0 +1,7 @@
+neo4j
+jupyterlab
+plotly
+tqdm
+pandas
+numpy
+requests
